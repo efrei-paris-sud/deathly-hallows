@@ -1,0 +1,27 @@
+>> CAPTEUR GYRO
+x = 0
+y = -0
+z = 0
+>> CAPTEUR TEMP CORP
+37.00 *C
+>> CAPTEUR HAUTE TEMP
+a = 468
+resistance = 11111
+11.11
+>> CAPTEUR GAZ
+NH3: 0.52 ppm
+CO: 3.88 ppm
+NO2: 0.24 ppm
+C3H8: 378.59 ppm
+CH4: 402.28 ppm
+H2: 0.61 ppm
+C2H5OH: 1.38 ppm
+>> CAPTEUR RYTHME CARDIAQUE
+75
+>> GPS
+
+Latitude:0.000000
+
+Longitude:0.000000
+
+$
